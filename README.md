@@ -1,5 +1,5 @@
 # tm-aws-infrastructure
-This repository is meant to serve as a template for creating the components necessary to host Vault on AWS, which includes a VPC, 2 public subnets, 2 private subnets, 2 NAT gateways, an RDS Postgres instance, an EKS cluster with two nodes, and an internet gateway across 2 availability zones. A diagram illustrating this can be found below:
+This repository is meant to serve as a template for creating the components necessary to host Vault on AWS via Terraform, which includes a VPC, 2 public subnets, 2 private subnets, 2 NAT gateways, an RDS Postgres instance, an EKS cluster with two nodes, and an internet gateway across 2 availability zones. A diagram illustrating this can be found below:
 
 ![image](https://user-images.githubusercontent.com/119435702/211435286-1959b993-4f4a-41ae-81fc-2fd336a25b68.jpeg)
 
