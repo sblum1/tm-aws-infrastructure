@@ -7,7 +7,7 @@ This does not take into account provisioning an MSK cluster (for Kafka implement
 
 ## Sources
 
-This repository follows the architecture used by Mark Maglana in his series on designing a 3-tier app on AWS EKS. His repository can be found [here](https://github.com/relaxdiego/system-design), as well as his videos covering the topic, which can be found [here](https://relaxdiego.com/2021/07/system-design-webapp-on-aws.html). Notes covering the architecture discussed in the video can be found in the attached document, 'EKS Web App Notes'.
+This repository follows the architecture used by Mark Maglana in his series on designing a 3-tier app on AWS EKS. His repository can be found [here](https://github.com/relaxdiego/system-design), as well as his videos covering the topic, which can be found [here](https://relaxdiego.com/2021/07/system-design-webapp-on-aws.html). Notes covering the architecture discussed in the videos can be found in the attached document, 'EKS Web App Notes'.
 
 ## Prerequisites: 
 1. An AWS account 
